@@ -6,7 +6,7 @@
 - 📌  Wechat: ww000000001_
 - 💻  I am using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com/)
-  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)]()
+  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://gitee.com/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]()
 
 
