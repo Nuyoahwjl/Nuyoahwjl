@@ -8,9 +8,8 @@
 <!---
 - 📌 Wechat: ww000000001_
 --->
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
-
+ [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://blog.i-xiao.space/)
 
 
 
