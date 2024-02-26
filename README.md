@@ -9,7 +9,8 @@
 - 📌 Wechat: ww000000001_
 --->
 
- [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://blog.i-xiao.space/)
+![Github Stats](https://github-readme-stats.vercel.app/api?Nuyoah-wjl=coderfix-lab&show_icons=true&theme=dark&count_private=true)
+
 
 
 
