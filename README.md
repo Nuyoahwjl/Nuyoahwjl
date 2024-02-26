@@ -8,6 +8,7 @@
 <!---
 - 📌 Wechat: ww000000001_
 --->
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
 
 
