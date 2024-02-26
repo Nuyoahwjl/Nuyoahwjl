@@ -9,7 +9,6 @@
 - 📌 Wechat: ww000000001_
 --->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?Nuyoah-wjl=coderfix-lab&show_icons=true&theme=dark&count_private=true)
 
 
 
