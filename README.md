@@ -1,4 +1,4 @@
-## 👋 Hi, here
+# 👋 Hi, here
 - 🌱  I’m currently studying computer science and technology at HUST.
 - 😆  Record the learning process of a novice from zero to one.
 - 💥  I’m looking forward to getting acquainted with more people.
