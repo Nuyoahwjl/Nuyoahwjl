@@ -14,7 +14,7 @@
 #### - 📌 Wechat: ww000000001_
 ## **😍 Top languages:**
 
-#### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&hide_progress=true)
+**![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&hide_progress=true) **
 ## **💻 I'm using:**
 
 #### [![I mostly use](https://skillicons.dev/icons?i=c,cpp,py,md,html,vscode,github,stackoverflow,instagram,apple,twitter,)](https://skillicons.dev)
