@@ -13,18 +13,15 @@
 - 📫 How to reach me: 3508529368@qq.com
 - 📌 Wechat: ww000000001_
 - 💻 I'm using:
+<!--  
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://gitee.com/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/)
   ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white)
+--> 
+[![I mostly use](https://skillicons.dev/icons?i=c,cpp,py,vscode,github,pycharm,ps,dw)](https://skillicons.dev)
 
 
-
-
-[![I mostly use](https://skillicons.dev/icons?i=c,cpp,java,vscode,idea)](https://skillicons.dev)
-- 👻 My skills:
-
-  [![My skills](https://skillicons.dev/icons?i=js,jquery,html,css,kotlin,py,pycharm,nodejs,npm,ps,pr,ae,au,ai,notion)](https://skillicons.dev)
 
 - 😍 Top Languages
 
