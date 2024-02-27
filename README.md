@@ -30,9 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 😰 Commit Stats
-
-[![Nuyoah-wjl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuyoah-wjl&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -60,7 +57,7 @@
 <!--   GitHub stats graph -->
 ## 📈 GitHub Activity Graph:
 ![Nuyoah-wjl's github activity graph](https://raw.githubusercontent.com/Nuyoah-wjl/Nuyoah-wjl/output/github-contribution-grid-snake.svg)
-[![Nuyoah-wjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hNuyoah-wjl&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nuyoah-wjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoah-wjl&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
