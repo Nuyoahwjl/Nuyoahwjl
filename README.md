@@ -27,7 +27,7 @@
 <h3align="left">与我联系：</h3>
 <palign="left">
 <a href="https://twitter.com/jiale3508529368"target="blank"><imgalign="中心" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jiale3508529368" height="30" 宽度="40" /></a>
-<a href="https://fb.com/jiale wang" target="blank"><imgalign="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jiale wang" height="30" width="40" /></a> <
+<a href="https://fb.com/jiale wang" target="blank"><imgalign="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jiale Wang" height="30" width="40" /></a> <
 a href="https://instagram.com/jiale00001" target="blank"><imgalign="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master /src/images/icons/Social/instagram.svg" alt="jiale00001" height="30" width="40" /></a>
 </p>
 
