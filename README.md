@@ -26,9 +26,9 @@
 ![Nuyoah-wjl's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 
-<!-- Belarus - My Home-->
-  
- ```geojson
+<!-- My Home-->
+<!--  
+  ```geojson
 {
  "type": "FeatureCollection",
  "features": [
@@ -50,8 +50,8 @@
    }
  ]
 }
-
 ```
+-->
 
 
 ![](Bottom_down.svg)
