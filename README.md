@@ -1,6 +1,7 @@
 ![](Bottom_up.svg)
 
-# 👋 Hi, there
+
+## 👋 Hi, there
 - 🌱  I’m currently studying computer science and technology at HUST.
 - 😆  Record the learning process of a novice from zero to one.
 - 💥  I’m looking forward to getting acquainted with more people.
@@ -23,8 +24,7 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![Nuyoah-wjl's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
-<!--   grid-snake -->
-<!--  ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
+
 
 
 ![](Bottom_down.svg)
