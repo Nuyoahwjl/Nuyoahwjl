@@ -7,10 +7,10 @@
 
 
 ## **👋 Hi, there:**
-#### - 🌱 I’m currently studying CS at HUST.
-#### - 😆 Record the learning process of a novice from zero to one.
-#### - 💥 I look forward to getting acquainted with more people.
-#### - 📫 How to reach me: 3508529368@qq.com
+- 🌱 I’m currently studying CS at HUST.
+- 😆 Record the learning process of a novice from zero to one.
+- 💥 I look forward to getting acquainted with more people.
+- 📫 How to reach me: 3508529368@qq.com
 <!--#### - 📌 Wechat: ww000000001_-->
 
 
@@ -33,8 +33,8 @@
 
 <!--   GitHub stats graph -->
 ## **📈 GitHub Activity Graph:**
-#### ![Nuyoah-wjl's github activity graph](https://raw.githubusercontent.com/Nuyoah-wjl/Nuyoah-wjl/output/github-contribution-grid-snake.svg)
-#### [![Nuyoah-wjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoah-wjl&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ ![Nuyoah-wjl's github activity graph](https://raw.githubusercontent.com/Nuyoah-wjl/Nuyoah-wjl/output/github-contribution-grid-snake.svg)
+ [![Nuyoah-wjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoah-wjl&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
