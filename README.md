@@ -12,10 +12,10 @@
 #### - 💥 I look forward to getting acquainted with more people.
 #### - 📫 How to reach me: 3508529368@qq.com
 #### - 📌 Wechat: ww000000001_
-## 😍 Top languages:
+## **😍 Top languages:**
 
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&hide_progress=true)
-## 💻 I'm using:
+## **💻 I'm using:**
 
 #### [![I mostly use](https://skillicons.dev/icons?i=c,cpp,py,md,html,vscode,github,stackoverflow,instagram,apple,twitter,)](https://skillicons.dev)
 <!--  
@@ -58,7 +58,7 @@
 
 
 <!--   GitHub stats graph -->
-## 📈 GitHub Activity Graph:
+## **📈 GitHub Activity Graph:**
 #### ![Nuyoah-wjl's github activity graph](https://raw.githubusercontent.com/Nuyoah-wjl/Nuyoah-wjl/output/github-contribution-grid-snake.svg)
 #### [![Nuyoah-wjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoah-wjl&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
