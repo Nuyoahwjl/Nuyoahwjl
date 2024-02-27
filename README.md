@@ -6,16 +6,16 @@
 ![](header_.png)
 
 
-## 👋 Hi, there
+## 👋 Hi, there:
 - 🌱 I’m currently studying CS at HUST.
 - 😆 Record the learning process of a novice from zero to one.
 - 💥 I look forward to getting acquainted with more people.
 - 📫 How to reach me: 3508529368@qq.com
 - 📌 Wechat: ww000000001_
-- 😍 Top Languages:
+## 😍 Top languages:
 
      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&hide_progress=true)
-- 💻 I'm using:
+## 💻 I'm using:
 
     [![I mostly use](https://skillicons.dev/icons?i=c,cpp,py,md,html,vscode,github,stackoverflow,instagram,apple,twitter,)](https://skillicons.dev)
 <!--  
