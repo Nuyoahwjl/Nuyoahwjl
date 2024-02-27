@@ -41,15 +41,11 @@
      "geometry": {
        "type": "Polygon",
        "coordinates": [
-    [
-        [114.3, 30.6],
-        [114.3 + <longitude_delta>, 30.6],
-        [114.3 + <longitude_delta>, 30.6 + <latitude_delta>],
-        [114.3, 30.6 + <latitude_delta>],
-        [114.3, 30.6]
-    ]
-]
-
+         [
+             [23.5,53.9],
+             [32.6,52.6]
+         ]
+       ]
      }
    }
  ]
