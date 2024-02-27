@@ -23,7 +23,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Nuyoah-wjl's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+![Nuyoah-wjl's github activity graph](https://raw.githubusercontent.com/Nuyoah-wjl/Nuyoah-wjl/output/github-contribution-grid-snake.svg)
 
 
 <!-- My Home-->
