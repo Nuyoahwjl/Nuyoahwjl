@@ -2,7 +2,7 @@
 
 
 ## 👋 Hi, there
-- 🌱  I’m currently studying computer science and technology at HUST.
+- 🌱  I’m currently studying CS at HUST.
 - 😆  Record the learning process of a novice from zero to one.
 - 💥  I’m looking forward to getting acquainted with more people.
 - 📫  How to reach me: 3508529368@qq.com
