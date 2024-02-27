@@ -1,4 +1,4 @@
-![](Bottom_up.svg)
+<!-- ![](Bottom_up.svg) --> 
 
 
 ## 👋 Hi, there
@@ -18,12 +18,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jiale+Wang;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 
-![](header_.png)
-
-
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![Nuyoah-wjl's github activity graph](https://raw.githubusercontent.com/Nuyoah-wjl/Nuyoah-wjl/output/github-contribution-grid-snake.svg)
+
+
+![](header_.png)
+
+
+
 
 
 <!-- My Home-->
@@ -54,7 +57,7 @@
 -->
 
 
-![](Bottom_down.svg)
+<!-- ![](Bottom_down.svg) --> 
 
 
 
