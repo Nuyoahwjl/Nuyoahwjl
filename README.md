@@ -10,7 +10,7 @@
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+jiale+Wang;+Welcome+to+My+Profile!;Always+learning+new+things+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%000000&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+jiale+Wang;+Welcome+to+My+Profile!;Always+learning+new+things+)](https://git.io/typing-svg)
 
 
 
