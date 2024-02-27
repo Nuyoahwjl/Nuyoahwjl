@@ -9,10 +9,10 @@
 ## 👋 Hi, there
 - 🌱 I’m currently studying CS at HUST.
 - 😆 Record the learning process of a novice from zero to one.
-- 💥 Looking forward to getting acquainted with more people.
+- 💥 I look forward to getting acquainted with more people.
 - 📫 How to reach me: 3508529368@qq.com
 - 📌 Wechat: ww000000001_
-- 💻 I am using:
+- 💻 I'm using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://gitee.com/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/)
