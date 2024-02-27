@@ -6,12 +6,12 @@
 ![](header_.png)
 
 
-## 👋 Hi, there:
+## ** 👋 Hi, there: **
 #### - 🌱 I’m currently studying CS at HUST.
-### - 😆 Record the learning process of a novice from zero to one.
-### - 💥 I look forward to getting acquainted with more people.
-### - 📫 How to reach me: 3508529368@qq.com
-### - 📌 Wechat: ww000000001_
+#### - 😆 Record the learning process of a novice from zero to one.
+#### - 💥 I look forward to getting acquainted with more people.
+#### - 📫 How to reach me: 3508529368@qq.com
+#### - 📌 Wechat: ww000000001_
 ## 😍 Top languages:
 
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&hide_progress=true)
