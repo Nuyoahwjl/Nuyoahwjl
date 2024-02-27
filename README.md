@@ -19,13 +19,13 @@
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/)
   ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white)
 --> 
-[![I mostly use](https://skillicons.dev/icons?i=c,cpp,py,vscode,github,pycharm,ps,dw)](https://skillicons.dev)
+  [![I mostly use](https://skillicons.dev/icons?i=c,cpp,py,vscode,github,pycharm,ps,dw)](https://skillicons.dev)
 
 
 
 - 😍 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
