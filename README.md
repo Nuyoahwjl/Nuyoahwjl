@@ -24,7 +24,7 @@
 ![Nuyoah-wjl's github activity graph](https://raw.githubusercontent.com/Nuyoah-wjl/Nuyoah-wjl/output/github-contribution-grid-snake.svg)
 
 
-![](header_.png)
+
 
 
 
