@@ -1,3 +1,5 @@
+![](Bottom_up.svg)
+
 # 👋 Hi, there
 - 🌱  I’m currently studying computer science and technology at HUST.
 - 😆  Record the learning process of a novice from zero to one.
