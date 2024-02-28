@@ -18,7 +18,7 @@
 
 
 ## **💻 I'm using:**
-#### [![I mostly use](https://skillicons.dev/icons?i=c,cpp,py,md,html,vscode,github,stackoverflow,instagram,apple,twitter,)](https://skillicons.dev)
+#### [![I mostly use](https://skillicons.dev/icons?i=c,cpp,py,md,html,vscode,pycharm,github,stackoverflow,instagram,apple,twitter,)](https://skillicons.dev)
 <!--  
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://gitee.com/)
