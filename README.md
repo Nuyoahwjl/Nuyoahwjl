@@ -10,8 +10,7 @@
 - 🌱 I’m currently studying CS at HUST.
 - 😆 Record the learning process of a novice from zero to one.
 - 💥 I look forward to getting acquainted with more people.
-- 📫 How to reach me: 3508529368@qq.com
-<!--#### - 📌 Wechat: ww000000001_-->
+- 📌 Wechat: ww000000001_
 
 
 ## **😍 Top languages:**
