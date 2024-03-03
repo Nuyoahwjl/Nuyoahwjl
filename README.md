@@ -15,16 +15,18 @@
 
 ## **😍 Top languages:**
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&hide_progress=true&langs_count=8&hide=TeX)
+<!--
 <table style="border-collapse: collapse; border: none;">
      <tr>
         <td>
-            vjajb 
+            hhhhh 
         </td>
         <td>
         <img src="analyst.gif" alt="Analyst">
         </td>
     </tr>
 </table>
+-->
 
 
 ## **💻 I'm using:**
