@@ -18,7 +18,6 @@
 <table style="border-collapse: collapse; border: none;">
      <tr>
         <td>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&hide_progress=true&langs_count=8&hide=TeX)
         </td>
         <td>
         <img src="analyst.gif" alt="Analyst">
