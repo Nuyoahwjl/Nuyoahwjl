@@ -15,6 +15,16 @@
 
 ## **😍 Top languages:**
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&hide_progress=true&langs_count=8&hide=TeX)
+<table style="border-collapse: collapse; border: none;">
+     <tr>
+        <td>
+        I am Ivo Petkov and I am a Data Analyst. For my analyzes I use tools such as Excel and PowerBI. Since programming turned out to be quite an interesting hobby for me, I study methods that can help me use it in my work.
+        </td>
+        <td>
+        <img src="analyst.gif" alt="Analyst">
+        </td>
+    </tr>
+</table>
 
 
 ## **💻 I'm using:**
@@ -25,9 +35,7 @@
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/)
   ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white)
 --> 
-<!--    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
---> 
+
 
 
 <!--   GitHub stats graph -->
