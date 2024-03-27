@@ -14,7 +14,7 @@
 
 
 ## **😍 Top languages:**
-#### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoah-wjl&hide_progress=true&langs_count=8&hide=TeX)
+#### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&hide_progress=true&langs_count=8&hide=TeX)
 
 
 
@@ -31,8 +31,8 @@
 
 <!--   GitHub stats graph -->
 ## **📈 GitHub Activity Graph:**
- ![Nuyoah-wjl's github activity graph](https://raw.githubusercontent.com/Nuyoah-wjl/Nuyoah-wjl/output/github-contribution-grid-snake.svg)
- [![Nuyoah-wjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoah-wjl&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ ![Nuyoahwjl's github activity graph](https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg)
+ [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
