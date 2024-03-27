@@ -14,7 +14,7 @@
 
 
 ## **😍 Top languages:**
-#### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&hide_progress=true&langs_count=8&hide=TeX)
+#### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&hide_progress=true&langs_count=6&hide=TeX)
 
 
 
