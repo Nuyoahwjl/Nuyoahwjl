@@ -1,9 +1,9 @@
-<!--  my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jiale+Wang.;+Welcome+to+My+Profile!;Always+learning+new+things.+;)](https://git.io/typing-svg)
+#<!--  my-ticker -->    
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jiale+Wang.;+Welcome+to+My+Profile!;Always+learning+new+things.+;)](https://git.io/typing-svg)
 
 
 <!-- ![](Bottom_up.svg) --> 
-![](header_.png)
+# ![](header_.png)
 
 
 ## **👋 Hi, there:**
@@ -19,7 +19,7 @@
 
 
 ## **💻 I'm using:**
-#### [![I mostly use](https://skillicons.dev/icons?i=c,cpp,java,py,md,html,vscode,pycharm,clion,androidstudio,github,stackoverflow,apple,instagram,twitter,)](https://skillicons.dev)
+#### [![I mostly use](https://skillicons.dev/icons?i=c,cpp,java,py,md,html,vscode,pycharm,clion,androidstudio,stackoverflow,apple,instagram,twitter,)](https://skillicons.dev)
 <!--  
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://gitee.com/)
