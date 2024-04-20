@@ -7,7 +7,7 @@
 
 
 ## **👋 Hi, there:**
--[x]**🌱 I’m currently studying CS at HUST.**
+-[x]🌱 I’m currently studying CS at HUST.
 -[x] **😆 Record the learning process of a novice from zero to one.**
 - **💥 I look forward to getting acquainted with more people.**
 - **📌 Wechat: ww000000001_**
