@@ -16,9 +16,7 @@
 ## **😍 Top languages:**
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&hide_progress=true&langs_count=6&hide=TeX)
 
-<html>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&hide_progress=true&langs_count=6&hide=TeX" alt=""style="display: block; margin: 0 auto;">
-</html>
+
 
 ## **💻 I'm using:**
 #### [![I mostly use](https://skillicons.dev/icons?i=c,cpp,java,py,md,html,vscode,pycharm,clion,androidstudio,github,stackoverflow,instagram,twitter,)](https://skillicons.dev)
