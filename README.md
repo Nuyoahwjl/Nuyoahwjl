@@ -12,10 +12,10 @@
 - [x] **💥 I look forward to getting acquainted with more people.**
 - [x] **📌 Wechat: ww000000001_**
 
-
+<!--
 ## **😍 Top languages:**
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=true&langs_count=6&hide=TeX)
-
+-->
 
 
 ## **💻 I'm using:**
