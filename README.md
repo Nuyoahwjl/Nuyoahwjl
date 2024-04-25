@@ -12,10 +12,11 @@
 - [x] **💥 I look forward to getting acquainted with more people.**
 - [x] **📌 Wechat: ww000000001_**
 
-<!--
+
 ## **😍 Top languages:**
-#### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=true&langs_count=6&hide=TeX)
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=true&langs_count=6&hide=TeX)
+<p <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuyoahwjl&" alt="nuyoahwjl" /></p>
+
 
 
 ## **💻 I'm using:**
@@ -45,7 +46,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nuyoahwjl&" alt="nuyoahwjl" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&&row=1&column=7&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,PullRequest,Repositories" alt="nuyoahwjl" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&&row=1&column=6&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,PullRequest,Repositories" alt="nuyoahwjl" /></a> </p>
 
 
 <div align="center">
