@@ -40,6 +40,20 @@
 
 
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&locale=en" alt="nuyoahwjl" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nuyoahwjl&" alt="nuyoahwjl" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&&row=1&column=7&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Issues,PullRequest,Repositories" alt="nuyoahwjl" /></a> </p>
+
+
+<div align="center">
+  <!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+</div>
+
+
+
 <!-- ![](Bottom_down.svg) --> 
 <!---
 wwjjll-coder/wwjjll-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
