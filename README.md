@@ -29,6 +29,11 @@
 #### [![I mostly use](https://skillicons.dev/icons?i=c,cpp,java,py,md,html,vscode,pycharm,clion,androidstudio,github,stackoverflow,instagram,twitter,)](https://skillicons.dev)
 -->
 
+<!--
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" /></a>
+-->
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="nuyoahwjl" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nuyoahwjl&" alt="nuyoahwjl" /></p>
 
