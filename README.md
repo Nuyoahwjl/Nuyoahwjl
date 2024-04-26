@@ -9,7 +9,9 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 -->
+<!--
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+-->
 
 ![ ](header_.png)
 
@@ -61,7 +63,7 @@
 
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Visitors&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
 
