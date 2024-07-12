@@ -30,10 +30,10 @@
 -->
 
 
-
+<!--
 ## **💻 I'm using:**
 #### [![I mostly use](https://skillicons.dev/icons?i=c,cpp,java,py,md,html,vscode,pycharm,clion,androidstudio,github,stackoverflow,instagram,twitter,)](https://skillicons.dev)
-
+-->
 
 
 
@@ -47,7 +47,7 @@
 <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&&row=1&column=6&margin-w=5&margin-h=5&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,PullRequest,Repositories" alt="nuyoahwjl" /></a> </p>
 -->
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&&row=1&column=6&margin-w=5&margin-h=5&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,PullRequest,Repositories" alt="nuyoahwjl" /></a> </p>
 <!--
 ## **📈 GitHub Activity Graph:**
 -->
