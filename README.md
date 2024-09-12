@@ -62,8 +62,8 @@
 
 
 
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=kom-senapati">
-<img src="https://stats.quira.sh/kom-senapati/languages-over-time?theme=dark" alt="kom-senapati's GitHub | Languages Over Time" />
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=nuyoahwjl">
+<img src="https://stats.quira.sh/nuyoahwjl/languages-over-time?theme=dark" alt="nuyoahwjl's GitHub | Languages Over Time" />
 </a>
 
 
