@@ -36,32 +36,13 @@
 -->
 
 
-<!--
-<p align = "left">
-	<a herf="https://myoctocat.com">
-	<img src="./cat.png"/>
-	</a>
-</p>
-
-<p align="right">
-	<a herf="https://streak-stats.demolab.com">
-	<img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" />
-	</a>
-</p>
-
-<p align="right">
-	<a herf="https://github-readme-stats.vercel.app/api/top-langs">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=true&langs_count=6"/>
-	</a>
-</p>
--->
 
 <table>
   <tr>
     <!-- 左边的图片 -->
     <td align="left">
       <a href="https://myoctocat.com">
-        <img src="./cat.png" alt="Octocat" />
+        <img src="./cat.png" alt="Octocat" width="150" />
       </a>
     </td>
     <!-- 右边的图片，上下排列 -->
