@@ -37,28 +37,31 @@
 
 
 
-<table>
-  <tr>
-    <!-- 左边的图片 -->
-    <td align="left">
-      <a href="https://myoctocat.com">
-        <img src="./cat.png" alt="Octocat" width="150" />
-      </a>
-    </td>
-    <!-- 右边的图片，上下排列 -->
-    <td align="right">
-      <!-- 第一张图片 -->
-      <a href="https://streak-stats.demolab.com">
-        <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" />
-      </a>
-      <br/>
-      <!-- 第二张图片 -->
-      <a href="https://github-readme-stats.vercel.app/api/top-langs">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=true&langs_count=6" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <table style="margin: 0 auto;">
+    <tr>
+      <!-- 左边的图片，限制大小 -->
+      <td align="left">
+        <a href="https://myoctocat.com">
+          <img src="./cat.png" alt="Octocat" width="250" />
+        </a>
+      </td>
+      <!-- 右边的图片，上下排列 -->
+      <td align="right">
+        <!-- 第一张图片 -->
+        <a href="https://streak-stats.demolab.com">
+          <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" />
+        </a>
+        <br/>
+        <!-- 第二张图片 -->
+        <a href="https://github-readme-stats.vercel.app/api/top-langs">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=true&langs_count=6" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
