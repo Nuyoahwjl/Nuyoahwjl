@@ -89,8 +89,33 @@
       <!-- 右边的图片，上下排列 -->
       <td align="right">
         <!-- 第一张图片 -->
+        <a href="https://streak-stats.demolab.com">
+          <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=false" alt="GitHub Streak" width="600" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
+
+<!--
+
+<p align="center">
+  <table>
+    <tr>
+      <!-- 左边的图片，限制大小 -->
+      <td align="left">
+        <a href="https://myoctocat.com">
+          <img src="./cat.png" alt="Octocat" width="400" />
+        </a>
+      </td>
+      <!-- 右边的图片，上下排列 -->
+      <td align="right">
+        <!-- 第一张图片 -->
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&back_color=00000000&langs_count=8" alt="Top Languages" width="600" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="600" />
         </a>
         <br/>
         <!-- 第二张图片 -->
@@ -101,3 +126,5 @@
     </tr>
   </table>
 </p>
+p
+-->
