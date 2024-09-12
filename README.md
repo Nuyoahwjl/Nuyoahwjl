@@ -53,7 +53,7 @@
 -->
 
 
-<a href=" ">< img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" /></a >
+<p align="center"><img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" /></p>
 
 
 <!--
