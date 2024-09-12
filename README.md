@@ -67,6 +67,8 @@
 </a>
 
 
+[![Nuyoahwjl's GitHub | Languages](https://stats.quira.sh/Nuyoahwjl/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Nuyoahwjl)
+
 
 
 <div align="center">
