@@ -94,8 +94,9 @@
 
 
 
-
+<p align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=142413924" target="_blank">
   <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=142413924&image_size=auto&color_scheme=light" width="770" height="auto" alt="Dashboard stats of @Nuyoahwjl">
 </a>
+</p>
 
