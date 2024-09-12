@@ -86,7 +86,6 @@
           <img src="./cat.png" alt="Octocat" width="400" />
         </a>
       </td>
-      <!-- 右边的图片，上下排列 -->
       <td align="right">
         <!-- 第一张图片 -->
         <a href="https://streak-stats.demolab.com">
@@ -126,5 +125,5 @@
     </tr>
   </table>
 </p>
-p
+
 -->
