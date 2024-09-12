@@ -9,11 +9,13 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 -->
-<!--
+
+
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
--->
+
 
 ![ ](header_.png)
+
 
 <!--
 ## **👋 Hi, there:**
@@ -23,9 +25,9 @@
 - [x] **📌 Wechat: ww000000001_**
 -->
 
+
 <!--
 ## **😍 Top languages:**
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=true&langs_count=6&hide=TeX)
 -->
 
@@ -47,6 +49,7 @@
 <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&&row=1&column=6&margin-w=5&margin-h=5&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,PullRequest,Repositories" alt="nuyoahwjl" /></a> </p>
 -->
+
 <!--
 ## **📈 GitHub Activity Graph:**
 -->
@@ -62,11 +65,9 @@
 
 
 <!--
-
 <a href="https://quira.sh?utm_source=widgets&utm_campaign=nuyoahwjl">
 <img src="https://stats.quira.sh/nuyoahwjl/languages-over-time?theme=dark" alt="nuyoahwjl's GitHub | Languages Over Time" />
 </a>
-
 -->
 
 
