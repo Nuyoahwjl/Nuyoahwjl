@@ -3,11 +3,12 @@
 -->
 
 
-
+<!--
  <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
+-->
 
 
 <!--
@@ -54,6 +55,7 @@
 
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=true&langs_count=6"/></p>
 
 
 <!--
