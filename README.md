@@ -37,13 +37,13 @@
 
 
 
-<div style="text-align: center;">
-  <table style="margin: 0 auto;">
+<p align="center">
+  <table>
     <tr>
       <!-- 左边的图片，限制大小 -->
       <td align="left">
         <a href="https://myoctocat.com">
-          <img src="./cat.png" alt="Octocat" width="250" />
+          <img src="./cat.png" alt="Octocat" width="150" />
         </a>
       </td>
       <!-- 右边的图片，上下排列 -->
@@ -60,7 +60,7 @@
       </td>
     </tr>
   </table>
-</div>
+</p>
 
 
 
