@@ -43,7 +43,7 @@
       <!-- 左边的图片，限制大小 -->
       <td align="left">
         <a href="https://myoctocat.com">
-          <img src="./cat.png" alt="Octocat" width="150" />
+          <img src="./cat.png" alt="Octocat" width="400" />
         </a>
       </td>
       <!-- 右边的图片，上下排列 -->
