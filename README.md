@@ -55,12 +55,12 @@
 
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=true&langs_count=6"/></p>
 
 
 <!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true)](https://git.io/streak-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=true&langs_count=6"/></p>
 -->
+
 
  ![Nuyoahwjl's github activity graph](https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg)
 
@@ -68,9 +68,8 @@
 
 
 
-<!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&locale=en" alt="nuyoahwjl" /></p>
--->
+
 
 
 <!--
@@ -79,9 +78,9 @@
 </a>
 -->
 
-<!--
+
 [![Nuyoahwjl's GitHub | Languages](https://stats.quira.sh/Nuyoahwjl/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Nuyoahwjl)
--->
+
 
 
 <div align="center">
