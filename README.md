@@ -52,8 +52,11 @@
 ## **📈 GitHub Activity Graph:**
 -->
 
+<a href=" ">< img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" /></a >
 
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true)](https://git.io/streak-stats)
+-->
 
  ![Nuyoahwjl's github activity graph](https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg)
 
