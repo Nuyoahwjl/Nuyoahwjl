@@ -64,7 +64,6 @@
         <img src="./cat.png" alt="Octocat" />
       </a>
     </td>
-
     <!-- 右边的图片，上下排列 -->
     <td align="right">
       <!-- 第一张图片 -->
