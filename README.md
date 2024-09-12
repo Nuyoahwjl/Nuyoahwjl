@@ -1,3 +1,8 @@
+<div align="center">
+  <!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+</div>
+
 <!--
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jiale+Wang.;+Welcome+to+My+Profile!;Always+learning+new+things.+;)](https://git.io/typing-svg)
 -->
@@ -97,11 +102,7 @@
 -->
 
 
-<div align="center">
-  <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-</div>
-
+[![Nuyoahwjl's GitHub | Languages](https://stats.quira.sh/Nuyoahwjl/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Nuyoahwjl)
 
 
 <!--
