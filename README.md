@@ -43,9 +43,20 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nuyoahwjl&" alt="nuyoahwjl" /></p>
 -->
 
+<!--
+## **📈 GitHub Activity Graph:**
+-->
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" /></p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&&row=1&column=6&margin-w=5&margin-h=5&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,PullRequest,Repositories" alt="nuyoahwjl" /></a> </p>
+<!--
+<p align="center"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&&row=1&column=6&margin-w=5&margin-h=5&no-bg=true&no-frame=false&title=Stars,Followers,MultiLanguage,Commits,PullRequest,Repositories" alt="nuyoahwjl" />
+	</a> 
+</p
+-->
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -53,12 +64,8 @@
     </a>
 </div>
 
-<!--
-## **📈 GitHub Activity Graph:**
--->
 
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" /></p>
 
 
 <!--
