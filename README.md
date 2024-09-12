@@ -55,7 +55,7 @@
         <br/>
         <!-- 第二张图片 -->
         <a href="https://github-readme-stats.vercel.app/api/top-langs">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&langs_count=4" alt="Top Languages" width="600" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=true&langs_count=8" alt="Top Languages" width="600" />
         </a>
       </td>
     </tr>
