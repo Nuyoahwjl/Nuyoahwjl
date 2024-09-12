@@ -78,7 +78,7 @@
  ![Nuyoahwjl's github activity graph](https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg)
  -->
 
- [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&custom_title=📈 GitHub Activity Graph&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&custom_title=📈Activity&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
