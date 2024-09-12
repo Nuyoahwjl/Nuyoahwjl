@@ -52,10 +52,10 @@
 ## **📈 GitHub Activity Graph:**
 -->
 
-<p align = center>
+<p align = "left">
 <img src="./cat.png"/></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" /></p>
+<p align="right"><img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="GitHub Streak" /></p>
 
 
 <!--
