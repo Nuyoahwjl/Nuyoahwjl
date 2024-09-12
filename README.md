@@ -90,7 +90,7 @@
       <td align="right">
         <!-- 第一张图片 -->
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="600" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&back_color=00000000&langs_count=8" alt="Top Languages" width="600" />
         </a>
         <br/>
         <!-- 第二张图片 -->
