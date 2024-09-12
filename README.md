@@ -8,14 +8,12 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jiale+Wang.;+Welcome+to+My+Profile!;Always+learning+new+things.+;)](https://git.io/typing-svg)
 -->
 
-
 <!--
  <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 -->
-
 
 <!--
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
@@ -39,7 +37,7 @@
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=flat&row=1&column=8&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=flat&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-board=true" alt="TROPHY" />
     </a>
 </div>
 
