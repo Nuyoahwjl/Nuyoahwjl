@@ -61,10 +61,13 @@
 -->
 
 
+<!--
 
 <a href="https://quira.sh?utm_source=widgets&utm_campaign=nuyoahwjl">
 <img src="https://stats.quira.sh/nuyoahwjl/languages-over-time?theme=dark" alt="nuyoahwjl's GitHub | Languages Over Time" />
 </a>
+
+-->
 
 
 [![Nuyoahwjl's GitHub | Languages](https://stats.quira.sh/Nuyoahwjl/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Nuyoahwjl)
