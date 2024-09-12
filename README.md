@@ -89,7 +89,7 @@
       <!-- 右边的图片，上下排列 -->
       <td align="right">
         <!-- 第一张图片 -->
-        <a href="https://github-readme-stats.vercel.app/">
+        <a href="https://github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="600" />
         </a>
         <br/>
