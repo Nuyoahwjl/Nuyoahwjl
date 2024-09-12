@@ -38,25 +38,26 @@
 -->
 
 
-
-<p align="center"><img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true" alt="nuyoahwjl" /></p>
-
-
 <!--
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nuyoahwjl&" alt="nuyoahwjl" /></p>
 -->
+
 
 <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&&row=1&column=6&margin-w=5&margin-h=5&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,PullRequest,Repositories" alt="nuyoahwjl" /></a> </p>
 -->
 
+
 <!--
 ## **📈 GitHub Activity Graph:**
 -->
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=true)](https://git.io/streak-stats)
+
  ![Nuyoahwjl's github activity graph](https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg)
 
- [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&theme=xcode	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&theme=github-compact	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -72,7 +73,7 @@
 -->
 
 
-[![Nuyoahwjl's GitHub | Languages](https://stats.quira.sh/Nuyoahwjl/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nuyoahwjl)
+[![Nuyoahwjl's GitHub | Languages](https://stats.quira.sh/Nuyoahwjl/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Nuyoahwjl)
 
 
 
