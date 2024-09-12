@@ -90,11 +90,13 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&locale=en" alt="nuyoahwjl" /></p>
 -->
 
+<!--
 <p align-"center">
 <a href="https://quira.sh?utm_source=widgets&utm_campaign=nuyoahwjl">
 <img src="https://stats.quira.sh/nuyoahwjl/languages-over-time?theme=dark" alt="nuyoahwjl's GitHub | Languages Over Time" />
 </a>
 </p>
+-->
 
 
 <!--
