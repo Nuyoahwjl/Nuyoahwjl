@@ -15,9 +15,6 @@
 </div>
 -->
 
-<!--
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
--->
 
 ![ ](header_.png)
 
@@ -44,7 +41,8 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" /></p>
 
- [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&days=20&hide_title=true&hide_boarder=true&area=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&days=20&hide_title=true&hide_boarder=true&area=true&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
@@ -80,14 +78,12 @@
 <p align="center">
   <table>
     <tr>
-      <!-- 左边的图片，限制大小 -->
       <td align="left">
         <a href="https://myoctocat.com">
           <img src="./cat.png" alt="Octocat" width="400" />
         </a>
       </td>
       <td align="right">
-        <!-- 第一张图片 -->
         <a href="https://streak-stats.demolab.com">
           <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=false" alt="GitHub Streak" width="600" />
         </a>
