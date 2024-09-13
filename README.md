@@ -40,7 +40,7 @@
         </a>
               <br>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&no_bg=true&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="500" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="500" />
         </a>
       </td>
     </tr>
