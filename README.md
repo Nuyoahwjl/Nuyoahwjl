@@ -45,6 +45,9 @@
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&theme=transparent)
+
+
 
 
 <!--
