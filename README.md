@@ -32,10 +32,10 @@
       </td>
       <td align="right">
         <a href="https://streak-stats.demolab.com">
-          <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=meta-light&hide_border=true" alt="GitHub Streak" width="500" />
+          <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=meta-light&hide_border=true&no_bg=true" alt="GitHub Streak" width="500" />
         </a>
 	      <br>
-	<a >
+	<a href="https://github.com/anuraghazra/github-readme-stats">
 	  <img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&rank_icon=github&theme=transparent" width="500"/>
         </a>
               <br>
