@@ -32,7 +32,7 @@
       </td>
       <td align="right">
         <a href="https://streak-stats.demolab.com">
-          <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=meta-light&hide_border=true&no_bg=true" alt="GitHub Streak" width="500" />
+          <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-blue&hide_border=true&no_bg=true" alt="GitHub Streak" width="500" />
         </a>
 	      <br>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
