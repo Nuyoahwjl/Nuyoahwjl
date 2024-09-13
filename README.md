@@ -48,39 +48,6 @@
 </p>
 
 
-
-
-
-<!--
-		<a >
-	  <img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&rank_icon=github&theme=transparent" width="400"/>
-        </a>
--->
-
-
-<!--
-<p align="center">
-  <table>
-    <tr>
-      <td align="left">
-        <a href="https://myoctocat.com">
-          <img src="./cat.png" alt="Octocat" width="400" />
-        </a>
-      </td>
-      <td align="right">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="600" />
-        </a>
-        <br/>
-        <a href="https://streak-stats.demolab.com">
-          <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=false" alt="GitHub Streak" width="600" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
--->
-
 <!--
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jiale+Wang.;+Welcome+to+My+Profile!;Always+learning+new+things.+;)](https://git.io/typing-svg)
 -->
