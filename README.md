@@ -42,7 +42,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" /></p>
 
 
- [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&days=20&hide_title=true&area=true&hide_border=true&theme=github-light&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&days=20&hide_title=true&area=true&hide_border=true&theme=github-compact&bg_color=#00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
