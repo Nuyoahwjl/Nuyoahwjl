@@ -42,34 +42,42 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" /></p>
 
 
- [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&days=20&hide_title=true&area=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&days=20&hide_title=true&area=true&hide_border=true&theme=github-light&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&locale=en" alt="nuyoahwjl" /></p>
+
 -->
 
 
 <!--
+
 <p align-"center">
 <a href="https://quira.sh?utm_source=widgets&utm_campaign=nuyoahwjl">
 <img src="https://stats.quira.sh/nuyoahwjl/languages-over-time?theme=dark" alt="nuyoahwjl's GitHub | Languages Over Time" />
 </a>
 </p>
+
 -->
 
 
 <!--
+
 [![Nuyoahwjl's GitHub | Languages](https://stats.quira.sh/Nuyoahwjl/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Nuyoahwjl)
+
 -->
 
 
 <!--
+
 <p align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=142413924" target="_blank">
   <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=142413924&image_size=auto&color_scheme=light" width="770" height="auto" alt="Dashboard stats of @Nuyoahwjl">
 </a>
 </p>
+
 -->
 
 
