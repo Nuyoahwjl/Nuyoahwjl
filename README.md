@@ -36,7 +36,7 @@
         </a>
               <br>
         <a href="https://streak-stats.demolab.com">
-          <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=whatsapp-light2&hide_border=false" alt="GitHub Streak" width="500" />
+          <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=meta-light&hide_border=false" alt="GitHub Streak" width="500" />
         </a>
 	      <br>
         <a href="https://github.com/anuraghazra/github-readme-stats">
