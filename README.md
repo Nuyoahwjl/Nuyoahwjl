@@ -33,6 +33,7 @@
         <a href="https://streak-stats.demolab.com">
           <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=false" alt="GitHub Streak" width="400" />
         </a>
+	      <br>
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="400" />
         </a>
