@@ -17,10 +17,6 @@
 [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&days=20&hide_title=true&area=true&hide_border=true&theme=github-compact&bg_color=#00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-
-
-<!--
 <p align="center">
   <table>
     <tr>
@@ -37,19 +33,7 @@
     </tr>
   </table>
 </p>
--->
 
-<p align="left">
-<a href="https://myoctocat.com">
-          <img src="./cat.png" alt="Octocat" width="400" />
-</a>
-</p>
-
-<p align="right">
-<a href="https://streak-stats.demolab.com">
-          <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-green&hide_border=false" alt="GitHub Streak" width="600" />
-</a>
-</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" /></p>
 
