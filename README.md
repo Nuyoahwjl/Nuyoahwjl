@@ -39,7 +39,7 @@
         </a>
 	<br>
 	<a >
-	  <img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&rank_icon=github&theme=transparent" width="400"/>
+	  <img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&rank_icon=github&theme=transparent" width="500"/>
         </a>
       </td>
     </tr>
