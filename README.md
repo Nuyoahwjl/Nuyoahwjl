@@ -1,8 +1,7 @@
-<!--
-![Contributors](https://img.shields.io/github/contributors/Nuyoahwjl/Nuyoahwjl?color=green&logo=github&style=for-the-badge)
--->
 
-![ ](header_.png)
+![Contributors](https://img.shields.io/github/contributors/Nuyoahwjl/Nuyoahwjl?color=green&logo=github&style=for-the-badge)
+
+
 <p align="center">
 <img src="https://github.com/Nuyoahwjl/Nuyoahwjl/blob/528a4720c8f9ae8a024f9648f46c2225cbddc3bb/header_.png" width="8500" />
 </p>
