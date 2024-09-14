@@ -11,14 +11,32 @@
 </p>
 </div>
 
+<p align="center">
+	<table>
+		<tr>
+		<p align="center">
+  	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+  	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+  	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+		</p>
+		</tr>
+	</table>
+</p>
+
+
 
 <!-- theme:radical flat-->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-
+<p align="center">
+	<table>
+		<tr>
+		<td align="center">
+			<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      	<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
+   			</a>
+		</td>
+		</tr>
+	</table>
+</p>
 
 <!--
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
@@ -32,18 +50,17 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 <img> 标签则是默认的图片展示，用于未指定的情况或浏览器不支持 <picture> 标签时使用。
 -->
 
-<br>
 
 <p align="center">
 	<table>
 		<tr>
-			<td align="center">
-				<picture>
-				  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-night-green.svg" />
-				  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" />
-				  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" width="1000" />
-				</picture>
-			</td>
+		<td align="center">
+			<picture>
+			<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-night-green.svg" />
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" />
+			<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" width="1000" />
+			</picture>
+		</td>
 		</tr>
 	</table>
 </p>
