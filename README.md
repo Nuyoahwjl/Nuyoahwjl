@@ -38,6 +38,20 @@
 	</table>
 </p>
 
+<body>
+    <div class="center-table">
+        <table>
+            <tr>
+                <td align="center">
+                    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+                        <img src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+
 <!--
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 -->
