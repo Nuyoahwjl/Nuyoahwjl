@@ -43,12 +43,13 @@
         </a>
 	      <br>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="500" />
+          <img src="https://ionicabizau.github.io/github-profile-languages/api.html?Nuyoahwjl" width="500" />
         </a>
       </td>
     </tr>
   </table>
 </p>
+
 
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
