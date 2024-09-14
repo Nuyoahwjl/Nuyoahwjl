@@ -2,7 +2,6 @@
 <img src="https://github.com/Nuyoahwjl/Nuyoahwjl/blob/528a4720c8f9ae8a024f9648f46c2225cbddc3bb/header_.png" width="8500" />
 </p>
 
-
 <div style="display: flex; justify-content: center;">
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
@@ -11,26 +10,23 @@
 </p>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <table border="1" style="width: 50%; text-align: center;">
-    <tr>
-      <th>Emoji</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="20%" alt="Broken system!"/></td>
-      <td>Broken system!</td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="20%" alt="It's working!"/></td>
-      <td>It's working!</td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="20%" alt="It's working but you don't know how!"/></td>
-      <td>It's working but you don't know how!</td>
-    </tr>
-  </table>
+<p align="center">
+	<table>
+		<tr>
+		<td align="center">
+			<div style="display: flex; justify-content: center;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+</p>
 </div>
+		</td>
+		</tr>
+	</table>
+</p>
+
+
 
 <!-- theme:radical flat-->
 <p align="center">
@@ -43,7 +39,6 @@
 <!--
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 -->
-
 <!--
 <picture> 标签用于根据条件展示不同的图像。
 <source> 标签定义了在不同情况下加载的图片资源。例如：
