@@ -76,6 +76,50 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 
 
 
+<p align="center">
+	<table>
+		<tr>
+			<td align="center">
+				<picture>
+				  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-night-green.svg" />
+				  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" />
+				  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" width="800" />
+				</picture>
+			</td>
+		</tr>
+	</table>
+</p>
+
+<p align="center">
+	<table>
+		<tr>
+			<td align="center">
+				<img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" />
+			</td>
+		</tr>
+	</table>
+</p>
+
+<p align="center">
+	<table>
+		<tr>
+			<td align="left">
+				<a href="https://myoctocat.com">
+					<img src="./cat.png" alt="Octocat" width="400" />
+				</a>
+			</td>
+			<td align="right">
+				<a href="https://streak-stats.demolab.com">
+					<img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-blue&hide_border=true&no_bg=true" alt="GitHub Streak" width="600" />
+				</a>
+				<br>
+				<a href="https://github.com/anuraghazra/github-readme-stats">
+					<img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="600" />
+				</a>
+			</td>
+		</tr>
+	</table>
+</p>
 
 
 
