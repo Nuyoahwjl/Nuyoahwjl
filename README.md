@@ -1,6 +1,7 @@
 
 ![ ](header_.png)
 
+
 <div style="display: flex; justify-content: center;">
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
@@ -8,6 +9,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 </p>
 </div>
+
 
 <!-- theme:radical flat-->
 
@@ -17,13 +19,16 @@
     </a>
 </div>
 
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" />
 </p>
 
+
 <!--
 [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&days=20&hide_title=true&area=true&hide_border=true&theme=github-compact&bg_color=#00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
+
 
 <p align="center">
   <table>
@@ -52,10 +57,23 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&th
 </p>
 
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Nuyoahwjl" frameborder="0"></iframe>
+
+
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
