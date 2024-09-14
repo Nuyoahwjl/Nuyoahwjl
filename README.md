@@ -41,7 +41,7 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-night-green.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" width="1000"  />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" width="700"  />
 	</picture>
 </p>
 <br>
