@@ -10,31 +10,12 @@
 </p>
 </div>
 
-<p align="center">
-	<table>
-		<tr>
-		<td align="center">
-			<div style="display: flex; justify-content: center;">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
-</p>
-</div>
-		</td>
-		</tr>
-	</table>
-</p>
-
-
-
 <!-- theme:radical flat-->
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       	<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
    	</a>
 </p>
-
 
 <!--
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
@@ -46,7 +27,6 @@ media="(prefers-color-scheme: dark)" 意味着当用户设备设置为暗色模�
 media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-season-animate.svg图片。
 <img> 标签则是默认的图片展示，用于未指定的情况或浏览器不支持 <picture> 标签时使用。
 -->
-
 
 <p align="center">
 	<table>
@@ -63,32 +43,32 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 </p>
 
 <p align="center">
-	<table>
-		<tr>
-			<td align="center">
-				<img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" width="1000" />
-			</td>
-		</tr>
-	</table>
+<table>
+	<tr>
+	<td align="center">
+		<img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" width="1000" />
+	</td>
+	</tr>
+</table>
 </p>
 
 <p align="center">
 	<table>
-		<tr>
-			<td align="left">
-				<a href="https://myoctocat.com">
-					<img src="./cat.png" alt="Octocat" width="400" />
-				</a>
-			</td>
-			<td align="right">
-				<a href="https://streak-stats.demolab.com">
-					<img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-blue&hide_border=true&no_bg=true" alt="GitHub Streak" width="600" />
-				</a>
-				<br>
-				<a href="https://github.com/anuraghazra/github-readme-stats">
-					<img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="600" />
-				</a>
-			</td>
+	<tr>
+		<td align="left">
+		<a href="https://myoctocat.com">
+			<img src="./cat.png" alt="Octocat" width="400" />
+		</a>
+		</td>
+		<td align="right">
+		<a href="https://streak-stats.demolab.com">
+			<img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-blue&hide_border=true&no_bg=true" alt="GitHub Streak" width="600" />
+		</a>
+		<br>
+		<a href="https://github.com/anuraghazra/github-readme-stats">
+			<img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="600" />
+		</a>
+		</td>
 		</tr>
 	</table>
 </p>
