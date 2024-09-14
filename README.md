@@ -43,7 +43,8 @@
         </a>
 	      <br>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-<iframe width="500" height="500" src="https://ionicabizau.github.io/github-profile-languages/api.html?Nuyoahwjl" frameborder="0"></iframe>
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="500"/>
         </a>
       </td>
     </tr>
