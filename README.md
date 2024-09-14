@@ -57,8 +57,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&th
 </p>
 
 
-<img src="https://ionicabizau.github.io/github-profile-languages/api.html?Nuyoahwjl" frameborder="0"/>
-
 
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
