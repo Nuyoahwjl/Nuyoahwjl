@@ -21,7 +21,7 @@
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
-
+![Metrics](https://metrics.lecoq.io/Nuyoahwjl)
 
 <div align="center">
   <table>
