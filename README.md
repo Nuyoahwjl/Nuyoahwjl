@@ -37,7 +37,7 @@
     <tr>
       <td align="left">
         <a href="https://myoctocat.com">
-          <img src="./cat.png" alt="Octocat" width="500" />
+          <img src="./cat.png" alt="Octocat" width="300" />
         </a>
       </td>
       <td align="right">
@@ -46,7 +46,7 @@
         </a>
         <br>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="500" />
+          <img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="700" />
         </a>
       </td>
     </tr>
@@ -57,7 +57,7 @@
 <!--
         <a href="https://github.com/anuraghazra/github-readme-stats">
 <img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="500"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="700"/>
         </a>
 	<br>
 -->
