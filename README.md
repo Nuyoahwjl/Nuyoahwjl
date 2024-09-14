@@ -27,46 +27,12 @@
 
 <!-- theme:radical flat-->
 <p align="center">
-	<table>
-		<tr>
-		<td align="center">
-			<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       	<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
-   			</a>
-		</td>
-		</tr>
-	</table>
+   	</a>
 </p>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .center-table {
-            margin: 0 auto;
-            width: 80%; /* 控制表格宽度，可以根据需要调整 */
-        }
-        .center-table img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="center-table">
-        <table>
-            <tr>
-                <td align="center">
-                    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-                        <img src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-                    </a>
-                </td>
-            </tr>
-        </table>
-    </div>
-</body>
-</html>
+
 <!--
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 -->
