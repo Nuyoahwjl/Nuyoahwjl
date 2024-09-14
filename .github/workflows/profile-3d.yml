@@ -15,6 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          IS_TRANSPARENT: true  # 添加这个环境变量以启用透明背景
       - name: Commit & Push
         run: |
           git config user.name github-actions
