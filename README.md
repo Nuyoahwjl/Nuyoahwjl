@@ -37,16 +37,16 @@
     <tr>
       <td align="left">
         <a href="https://myoctocat.com">
-          <img src="./cat.png" alt="Octocat" width="300" />
+          <img src="./cat.png" alt="Octocat" width="400" />
         </a>
       </td>
       <td align="right">
         <a href="https://streak-stats.demolab.com">
-          <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-blue&hide_border=true&no_bg=true" alt="GitHub Streak" width="500" />
+          <img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-blue&hide_border=true&no_bg=true" alt="GitHub Streak" width="600" />
         </a>
         <br>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="700" />
+          <img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="600" />
         </a>
       </td>
     </tr>
