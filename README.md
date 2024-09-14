@@ -4,7 +4,7 @@
 
 ![ ](header_.png)
 <p align="center">
-<img src="https://github.com/Nuyoahwjl/Nuyoahwjl/blob/528a4720c8f9ae8a024f9648f46c2225cbddc3bb/header_.png" width="1000" />
+<img src="https://github.com/Nuyoahwjl/Nuyoahwjl/blob/528a4720c8f9ae8a024f9648f46c2225cbddc3bb/header_.png" width="800" />
 </p>
 
 <div style="display: flex; justify-content: center;">
