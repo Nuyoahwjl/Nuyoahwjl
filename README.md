@@ -26,7 +26,6 @@
 <!--
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 -->
-
 <!--
 <picture> 标签用于根据条件展示不同的图像。
 <source> 标签定义了在不同情况下加载的图片资源。例如：
@@ -37,13 +36,12 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 
 <p align="center" >
 	<picture>
-	<a herf="https://github.com/yoshi389111/github-profile-3d-contrib.git">
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-night-green.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" />
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" />
-	</a>
 	</picture>
 </p>
+<br>
 
 <div align="center">
   <table>
