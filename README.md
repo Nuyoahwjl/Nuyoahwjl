@@ -11,19 +11,26 @@
 </p>
 </div>
 
-<p align="center">
-	<table>
-		<tr>
-		<p align="center">
-  	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-  	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-  	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
-		</p>
-		</tr>
-	</table>
-</p>
-
-
+<div style="display: flex; justify-content: center;">
+  <table border="1" style="width: 50%; text-align: center;">
+    <tr>
+      <th>Emoji</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="20%" alt="Broken system!"/></td>
+      <td>Broken system!</td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="20%" alt="It's working!"/></td>
+      <td>It's working!</td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="20%" alt="It's working but you don't know how!"/></td>
+      <td>It's working but you don't know how!</td>
+    </tr>
+  </table>
+</div>
 
 <!-- theme:radical flat-->
 <p align="center">
