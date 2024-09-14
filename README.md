@@ -31,6 +31,12 @@
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
+<div align=center>
+  <a href="https://github-profile-summary-cards.vercel.app/demo" >
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nuyoahwjl&theme=github"  />
+    </a>
+</div>
+
 
 <div align="center">
   <table>
@@ -52,6 +58,9 @@
     </tr>
   </table>
 </div>
+
+
+
 
 
 <!--
