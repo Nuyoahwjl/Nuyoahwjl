@@ -20,10 +20,6 @@
 </div>
 
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" />
-</p>
-
 <!--
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 -->
@@ -46,7 +42,10 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 </p>
 <br>
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" />
+</p>
+	
 <div align="center">
   <table>
     <tr>
