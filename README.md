@@ -43,7 +43,7 @@
         </a>
 	      <br>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://ionicabizau.github.io/github-profile-languages/api.html?Nuyoahwjl" width="500" />
+<iframe width="500" height="500" src="https://ionicabizau.github.io/github-profile-languages/api.html?Nuyoahwjl" frameborder="0"></iframe>
         </a>
       </td>
     </tr>
