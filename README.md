@@ -1,4 +1,6 @@
+<!--
 ![Contributors](https://img.shields.io/github/contributors/Nuyoahwjl/Nuyoahwjl?color=green&logo=github&style=for-the-badge)
+-->
 
 ![ ](header_.png)
 
