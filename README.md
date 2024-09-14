@@ -38,6 +38,21 @@
 	</table>
 </p>
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .center-table {
+            margin: 0 auto;
+            width: 80%; /* 控制表格宽度，可以根据需要调整 */
+        }
+        .center-table img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
 <body>
     <div class="center-table">
         <table>
@@ -51,7 +66,7 @@
         </table>
     </div>
 </body>
-
+</html>
 <!--
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 -->
