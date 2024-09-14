@@ -1,10 +1,7 @@
-
-![Contributors](https://img.shields.io/github/contributors/Nuyoahwjl/Nuyoahwjl?color=green&logo=github&style=for-the-badge)
-
-
 <p align="center">
 <img src="https://github.com/Nuyoahwjl/Nuyoahwjl/blob/528a4720c8f9ae8a024f9648f46c2225cbddc3bb/header_.png" width="8500" />
 </p>
+
 
 <div style="display: flex; justify-content: center;">
 <p align="center">
@@ -14,12 +11,14 @@
 </p>
 </div>
 
+
 <!-- theme:radical flat-->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" />
@@ -28,6 +27,7 @@
 <!--
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 -->
+
 <!--
 <picture> 标签用于根据条件展示不同的图像。
 <source> 标签定义了在不同情况下加载的图片资源。例如：
@@ -35,6 +35,7 @@ media="(prefers-color-scheme: dark)" 意味着当用户设备设置为暗色模�
 media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-season-animate.svg图片。
 <img> 标签则是默认的图片展示，用于未指定的情况或浏览器不支持 <picture> 标签时使用。
 -->
+
 
 <p align="center" >
 	<picture>
@@ -44,6 +45,7 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 	</picture>
 </p>
 <br>
+
 
 <div align="center">
   <table>
@@ -65,6 +67,7 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
     </tr>
   </table>
 </div>
+
 
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
