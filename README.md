@@ -40,7 +40,6 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" width="800"  />
 	</picture>
 </p>
-<br>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" />
