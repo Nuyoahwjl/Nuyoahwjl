@@ -61,7 +61,7 @@
     <tr>
       <td align="left">
         <a href="https://myoctocat.com">
-          <img src="./cat.png" alt="Octocat" width="500" />
+          <img src="./cat.png" alt="Octocat" width="500" height="300" />
         </a>
       </td>
       <td align="right">
