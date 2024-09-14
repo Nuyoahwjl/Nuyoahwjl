@@ -23,13 +23,23 @@
 <img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" />
 </p>
 
+<!--
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+-->
+
+<!--
+<picture> 标签用于根据条件展示不同的图像。
+<source> 标签定义了在不同情况下加载的图片资源。例如：
+media="(prefers-color-scheme: dark)" 意味着当用户设备设置为暗色模式时，加载profile-night-green.svg图片。
+media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-season-animate.svg图片。
+<img> 标签则是默认的图片展示，用于未指定的情况或浏览器不支持 <picture> 标签时使用。
+-->
 
 <p align="center" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/day.svg" />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-night-green.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" />
 	</picture>
 </p>
 
