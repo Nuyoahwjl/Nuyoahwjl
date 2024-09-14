@@ -1,6 +1,4 @@
-
 ![ ](header_.png)
-
 
 <div style="display: flex; justify-content: center;">
 <p align="center">
@@ -10,33 +8,18 @@
 </p>
 </div>
 
-
 <!-- theme:radical flat-->
-
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" />
 </p>
 
-
-<!--
-[![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&days=20&hide_title=true&area=true&hide_border=true&theme=github-compact&bg_color=#00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
-
-<div align=center>
-  <a href="https://github-profile-summary-cards.vercel.app/demo" >
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nuyoahwjl&theme=github"  />
-    </a>
-</div>
-
 
 <div align="center">
   <table>
@@ -59,9 +42,25 @@
   </table>
 </div>
 
+<div align="center">
+  <!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+</div>
 
 
 
+
+
+
+
+
+
+
+
+
+<!--
+[![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&days=20&hide_title=true&area=true&hide_border=true&theme=github-compact&bg_color=#00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 <!--
         <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -70,11 +69,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&th
         </a>
 	<br>
 -->
-
-<div align="center">
-  <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-</div>
 
 <!--
 ```
@@ -101,20 +95,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&th
 ```
 -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--
+<div align=center>
+  <a href="https://github-profile-summary-cards.vercel.app/demo" >
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nuyoahwjl&theme=github"  />
+    </a>
+</div>
+-->
 
 <!--
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jiale+Wang.;+Welcome+to+My+Profile!;Always+learning+new+things.+;)](https://git.io/typing-svg)
