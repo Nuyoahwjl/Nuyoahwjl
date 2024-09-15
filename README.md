@@ -69,8 +69,8 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 		</a>
 		<br>
 		<a href="https://dday-widget.minung.dev">
-  			<img src="https://dday-widget.minung.dev/widget?text=New Year&date=2023-01-01&theme=theme2" alt="dday-widget.svg"/>
-		</a>
+    			<img src="https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2025-01-01&startDate=2024-01-01&theme=theme2" alt="dday-widget.svg" />
+  		</a>
 		</td>
 		</tr>
 	</table>
