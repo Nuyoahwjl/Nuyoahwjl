@@ -76,6 +76,8 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 	</table>
 </p>
 
+[![I mostly use](https://skillicons.dev/icons?i=c,cpp,java,py,md,html,vscode,pycharm,clion,androidstudio,github,stackoverflow,instagram,twitter,)](https://skillicons.dev)
+
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -84,11 +86,11 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 
 
 
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
 			<img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="600" />
-		</a>
-
+</a>
+-->
 
 
 
