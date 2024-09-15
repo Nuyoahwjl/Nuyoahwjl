@@ -76,7 +76,7 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 	</table>
 </p>
 
-[![I mostly use](https://skillicons.dev/icons?i=c,cpp,java,py,md,html,vscode,pycharm,clion,androidstudio,github,stackoverflow,instagram,twitter,)](https://skillicons.dev)
+
 
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
