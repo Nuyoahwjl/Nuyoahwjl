@@ -68,8 +68,8 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 			<img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-blue&hide_border=true&no_bg=true" alt="GitHub Streak" width="600" />
 		</a>
 		<br>
-		<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="600" />
+		<a href="https://dday-widget.minung.dev">
+  			<img src="https://dday-widget.minung.dev/widget?text=New Year&date=2023-01-01&theme=theme2" alt="dday-widget.svg"/>
 		</a>
 		</td>
 		</tr>
@@ -80,6 +80,29 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
+
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+			<img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="600" />
+		</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
