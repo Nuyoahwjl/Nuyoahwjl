@@ -9,11 +9,17 @@
 </div>
 
 <p align="center">
-	<picture>
-	<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-night-green.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" />
-	<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" width="1000" />
-	</picture>
+	<table>
+		<tr>
+		<td align="center">
+			<picture>
+			<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-night-green.svg" />
+			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" />
+			<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" width="1000" />
+			</picture>
+		</td>
+		</tr>
+	</table>
 </p>
 
 <div align="center">
