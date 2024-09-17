@@ -21,7 +21,7 @@
 			<picture>
 			<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-night-green.svg" />
 			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" />
-			<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" width="600" />
+			<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" width="80%" />
 			</picture>
 		</td>
 		</tr>
