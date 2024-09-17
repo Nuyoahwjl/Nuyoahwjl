@@ -1,8 +1,30 @@
+<div style="display: flex; justify-content: center;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="10%" />
+</p>
+</div>
+
+<div align="center">
+  <!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+</div>
+
+
+
+
+
+
+
+<!--
+
+
 <p align="center">
 <img src="https://github.com/Nuyoahwjl/Nuyoahwjl/blob/528a4720c8f9ae8a024f9648f46c2225cbddc3bb/header_.png" width="8500" />
 </p>
-
-
 
 <div style="display: flex; justify-content: center;">
 <p align="center">
@@ -22,16 +44,12 @@
 </p>
 
 <!--
-![](./profile-3d-contrib/profile-south-season-animate.svg)
--->
-<!--
 <picture> 标签用于根据条件展示不同的图像。
 <source> 标签定义了在不同情况下加载的图片资源。例如：
 media="(prefers-color-scheme: dark)" 意味着当用户设备设置为暗色模式时，加载profile-night-green.svg图片。
 media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-season-animate.svg图片。
 <img> 标签则是默认的图片展示，用于未指定的情况或浏览器不支持 <picture> 标签时使用。
 -->
-
 
 <p align="center">
 	<table>
@@ -46,7 +64,6 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 		</tr>
 	</table>
 </p>
-
 
 <p align="center">
 <table>
@@ -79,20 +96,12 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 	</table>
 </p>
 
-
-
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
 
-
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="600" />
-</a>
 -->
 
 
@@ -105,17 +114,11 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+			<img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="600" />
+</a>
+-->
 
 <!--
 [![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&days=20&hide_title=true&area=true&hide_border=true&theme=github-compact&bg_color=#00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
