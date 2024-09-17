@@ -98,10 +98,9 @@ media="(prefers-color-scheme: light)" 则在亮色模式下加载profile-south-s
 	</table>
 </p>
 -->
-<!--
+<!-- 访客数统计徽标
 <div align="center">
-  <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+	<img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 -->
 
