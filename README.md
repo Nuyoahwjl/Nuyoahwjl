@@ -41,6 +41,7 @@
 </p>
 -->
 
+<!--
 <details>
 <summary><b>Trophy</b></summary>
 <p align="center">
@@ -49,6 +50,7 @@
    	</a>
 </p>
 </details>
+-->
 
 
 <!--
