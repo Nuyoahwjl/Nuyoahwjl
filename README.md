@@ -25,6 +25,9 @@
   <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
+
+<!--
+
 <p align="center">
 	<table>
 		<tr>
@@ -39,7 +42,7 @@
 	</table>
 </p>
 
-
+-->
 
 
 
