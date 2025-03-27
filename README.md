@@ -1,3 +1,8 @@
+<div align="center">
+  <!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+</div>
+
 
 <div style="display: flex; justify-content: center;">
 <p align="center">
@@ -9,11 +14,6 @@
 </p>	
 </div>
 
-
-<div align="center">
-  <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-</div>
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
