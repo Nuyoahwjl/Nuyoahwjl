@@ -15,12 +15,12 @@ jobs:
 
     - name: Download Trophy SVG
       run: |
-        curl -s -o trophy.svg "https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"
+        curl -s -o image/trophy.svg "https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"
 
     - name: Commit changes
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-        git add trophy.svg
+        git add image/trophy.svg
         git diff --quiet && git diff --staged --quiet || git commit -m "Update trophy.svg"
         git push
