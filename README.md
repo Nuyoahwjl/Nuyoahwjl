@@ -20,10 +20,31 @@
 </p>	
 </div>
 
+
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
+
+
+
+<p align="center">
+	<table>
+		<tr>
+		<td align="center">
+			<picture>
+			<source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-night-green.svg" />
+			<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-south-season-animate.svg" />
+			<img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-south-season-animate.svg" width="80%" />
+			</picture>
+		</td>
+		</tr>
+	</table>
+</p>
+
+
+
+
 
 
 <!--
