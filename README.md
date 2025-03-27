@@ -1,8 +1,3 @@
-<div align="center">
-  <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-</div>
-
 
 <div style="display: flex; justify-content: center;">
 <p align="center">
@@ -13,7 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="10%" />
 </p>	
 </div>
-
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -35,7 +29,10 @@
 	</table>
 </p>
 
-
+<div align="center">
+  <!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+</div>
 
 <!--
 <div style="display: flex; justify-content: center;">
