@@ -10,7 +10,7 @@
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      	<img align="center" width=100% src="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/trophy.svg" width="1000" alt="TROPHY" />
+      	<img align="center" width=100% src="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/trophy.svg?clear=1" width="1000" alt="TROPHY" />
    	</a>
 </p>
 
@@ -18,11 +18,11 @@
 	<table>
 		<tr>
 		<td align="center">
-			<picture>
-			<source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-night-green.svg" />
-			<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-south-season-animate.svg" />
-			<img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-south-season-animate.svg" width="80%" />
-			</picture>
+		    <picture>
+		    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-night-green.svg?clear=1" />
+		    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-south-season-animate.svg?clear=1" />
+		    <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-south-season-animate.svg?clear=1" width="80%" />
+		    </picture>
 		</td>
 		</tr>
 	</table>
