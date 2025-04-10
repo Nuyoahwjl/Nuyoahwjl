@@ -33,7 +33,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
-            你好 👋, 欢迎来到HCR体检推荐系统!
+            你好👋, 欢迎来到HCR体检推荐系统!
         </textPath>
     </text>
         <path id='path1'>
