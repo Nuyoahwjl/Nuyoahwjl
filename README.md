@@ -10,7 +10,7 @@
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      	<img align="center" width=100% src="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/trophy.svg?clear=1" width="1000" alt="TROPHY" />
+      	<img align="center" width=100% src="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/trophy.svg" width="1000" alt="TROPHY" />
    	</a>
 </p>
 
