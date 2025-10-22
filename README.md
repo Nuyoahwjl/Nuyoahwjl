@@ -33,6 +33,8 @@
   <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
+![](https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/profile-summary-card-output/github/3-stats.svg) ![](https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/profile-summary-card-output/github/4-productive-time.svg)
+
 <!--
 <div style="display: flex; justify-content: center;">
 <p align="center">
