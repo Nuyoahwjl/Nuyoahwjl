@@ -8,11 +8,11 @@
 </p>	
 </div>
 
-<p align="center">
+<div align="center">
 	
 ![](https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/profile-summary-card-output/github/3-stats.svg) ![](https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/profile-summary-card-output/github/4-productive-time.svg)
 
-</p>
+</div>
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
