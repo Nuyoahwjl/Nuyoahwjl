@@ -8,23 +8,11 @@
 </p>	
 </div>
 
-
-
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/profile-summary-card-output/github/3-stats.svg) ![](https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/profile-summary-card-output/github/4-productive-time.svg)
-</div>
-
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       	<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
    	</a>
 </p>
-
-
-
-
 
 <p align="center">
 	<table>
