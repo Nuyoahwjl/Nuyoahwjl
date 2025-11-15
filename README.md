@@ -16,10 +16,6 @@
 
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" width="1000" />
-</p>
-
-<p align="center">
 	<table>
 		<tr>
 		<td align="center">
