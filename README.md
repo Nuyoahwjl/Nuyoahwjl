@@ -16,17 +16,11 @@
 
 
 <p align="center">
-	<table>
-		<tr>
-		<td align="center">
 		    <picture>
 		    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake-dark.svg" width="1000" />
 		    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" width="1000" />
 		    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" width="1000" />
 		    </picture>
-		</td>
-		</tr>
-	</table>
 </p>
 
 
