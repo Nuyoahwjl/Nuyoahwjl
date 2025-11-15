@@ -14,6 +14,26 @@
    	</a>
 </p>
 
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" width="1000" />
+</p>
+
+<p align="center">
+	<table>
+		<tr>
+		<td align="center">
+		    <picture>
+		    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake-dark.svg" width="1000" />
+		    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" width="1000" />
+		    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" width="1000" />
+		    </picture>
+		</td>
+		</tr>
+	</table>
+</p>
+
+
 <p align="center">
 	<table>
 		<tr>
@@ -21,7 +41,7 @@
 		    <picture>
 		    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-night-green.svg?clear=1" />
 		    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-green-animate.svg?clear=1" />
-		    <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-green-animate.svg?clear=1" width="80%" />
+		    <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-green-animate.svg?clear=1" />
 		    </picture>
 		</td>
 		</tr>
@@ -30,13 +50,10 @@
 
 
 
-
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
-
-
 
 
 
@@ -137,10 +154,9 @@
 -->
 
 <!--
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="700"/>
-        </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="700"/>
+</a>
 	<br>
 -->
 
@@ -152,6 +168,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&th
     </a>
 </div>
 -->
+
 
 <!--
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jiale+Wang.;+Welcome+to+My+Profile!;Always+learning+new+things.+;)](https://git.io/typing-svg)
