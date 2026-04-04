@@ -18,7 +18,7 @@
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=100% src="https://github-profile-trophy-kannan.vercel.app/?username=nuyoahwjl&theme=flat&row=1&column=7&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
+    <img align="center" width=100% src="https://github-profile-trophy-kannan.vercel.app/?username=nuyoahwjl&theme=flat&row=1&column=7&margin-w=5&no-bg=true&title=-Issues,-Reviews" width="1000" alt="TROPHY" />
 	</a>
 </p> 
 
