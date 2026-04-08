@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<!-- <div style="display: flex; justify-content: center;">
 	<p align="center">
 	  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
 	  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
@@ -6,7 +6,13 @@
 	  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Astonished%20Face.png" width="10%" />
 	  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="10%" />
 	</p>	
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/nuyoahwjl?label=Followers&style=flat-square&color=bb9af7" />
+  <img src="https://img.shields.io/github/stars/nuyoahwjl?label=Total+Stars&style=flat-square&color=9ece6a" />
+</p>
 
 <div align="center">
 	<picture>
@@ -54,10 +60,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="views" />
 </div>
 
 <!--
