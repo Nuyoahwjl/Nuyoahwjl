@@ -28,9 +28,7 @@
       </picture>
     </td>
     <td align="center" width="50%">
-	  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img src="https://github-profile-trophy-kannan.vercel.app/?username=nuyoahwjl&theme=flat&row=2&column=3&margin-w=5&no-bg=true&no-frame=true" width="1000" alt="TROPHY" />
-      </a>
+      <img src="https://github-profile-trophy-kannan.vercel.app/?username=nuyoahwjl&theme=flat&row=2&column=3&margin-w=5&no-bg=true&no-frame=true" width="1000" alt="TROPHY" />
     </td>
   </tr>
 </table>
