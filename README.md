@@ -1,3 +1,4 @@
+<!-- 
 <div style="display: flex; justify-content: center;">
 	<p align="center">
 	  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
@@ -6,42 +7,8 @@
 	  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Astonished%20Face.png" width="10%" />
 	  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="10%" />
 	</p>	
-</div>
-
-<p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/snake-output/github-contribution-grid-snake-dark.svg" width="1000" />
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/snake-output/github-contribution-grid-snake.svg" width="1000" />
-		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/snake-output/github-contribution-grid-snake.svg" width="1000" />
-	</picture>
-</p>
-
-<p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=100% src="https://github-profile-trophy-kannan.vercel.app/?username=nuyoahwjl&theme=flat&row=1&column=7&margin-w=5&no-bg=true&title=-Issues,-Reviews" width="1000" alt="TROPHY" />
-	</a>
-</p> 
-
-
-<p align="center">
-	<table>
-		<tr>
-		<td align="center">
-		    <picture>
-		    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/profile-3d-contrib/profile-night-green.svg" />
-		    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/profile-3d-contrib/profile-green-animate.svg" />
-		    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/profile-3d-contrib/profile-green-animate.svg" />
-		    </picture>
-		</td>
-		</tr>
-	</table>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="views" />
-</div>
-
-<br>
+</div> 
+-->
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -66,7 +33,31 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
+<table>
+  <tr>
+    <td align="center" width="40%">
+	  <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/profile-3d-contrib/profile-night-green.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/profile-3d-contrib/profile-green-animate.svg" />
+        <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/profile-3d-contrib/profile-green-animate.svg" width="1000"  />
+      </picture>
+    </td>
+    <td align="center" width="60%">
+	  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img src="https://github-profile-trophy-kannan.vercel.app/?username=nuyoahwjl&theme=flat&row=1&column=6&margin-w=5&no-bg=true&no-frame=true" width="1000" alt="TROPHY" />
+      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/snake-output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/snake-output/github-contribution-grid-snake.svg" />
+        <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/main/snake-output/github-contribution-grid-snake.svg" width="1000"  />
+      </picture>
+    </td>
+  </tr>
+</table>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="views" />
+</div>
 
 
 
@@ -117,11 +108,9 @@
 </div>
 -->
 
-
 <!--
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jiale+Wang.;+Welcome+to+My+Profile!;Always+learning+new+things.+;)](https://git.io/typing-svg)
 -->
-
 
 <!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&locale=en" alt="nuyoahwjl" /></p>
