@@ -34,7 +34,7 @@
       </picture>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-trophy-kannan.vercel.app/?username=nuyoahwjl&theme=flat&row=2&column=3&margin-w=5&no-bg=true&no-frame=true" width="1000" alt="TROPHY" />
+      <img src="https://trophy.benkou.dev/?username=nuyoahwjl&theme=flat&row=2&column=3&margin-w=5&no-bg=true&no-frame=true" width="1000" alt="TROPHY" />
     </td>
   </tr>
 </table>
