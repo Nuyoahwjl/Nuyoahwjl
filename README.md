@@ -8,11 +8,11 @@
 	</p>	
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nuyoahwjl.nuyoahwjl&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/nuyoahwjl?label=followers&style=flat&color=bb9af7" />
   <img src="https://img.shields.io/github/stars/nuyoahwjl?label=total+stars&style=flat&color=9ece6a" />
-</p>
+</p> -->
 
 <div align="center">
 	<picture>
