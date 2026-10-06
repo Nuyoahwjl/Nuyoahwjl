@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/github/stars/nuyoahwjl?label=total+stars&style=flat&color=9ece6a" />
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
 	<img src="https://pixel-profile.vercel.app/api/github-stats?username=Nuyoahwjl&theme=journey&pixelate_avatar=false&avatar_border=true" width="600"/>
-</div>
+</div> -->
 
 <div align="center">
 	<picture>
